@@ -4,7 +4,7 @@
     "es6": true,
     "node": true
   },
-  "extends": ["airbnb", "eslint:recommended", "prettier"],
+  "extends": ["react-app", "airbnb", "eslint:recommended", "prettier"],
   "globals": {
     "document": false,
     "escape": false,
